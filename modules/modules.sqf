@@ -34,3 +34,4 @@
 //#include "weapon_helper\root.sqf"
 //#include "auto_track_assets\root.sqf"
 //#include "BackpackOnChest\root.sqf"
+//#include "vehicle_boost\root.sqf"
