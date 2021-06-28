@@ -1,4 +1,4 @@
 There are two briefing files, both do the same thing. 
 The one called "briefing.sqf" is the currently enabled brief and is the default blank template.
-"enhanced_briefing.sqf" is the same type of file apart from it covers a much in-depth brief with alot of exampeles on how to write it all up correctly.
+"enhanced_briefing.sqf" is the same type of file apart from it covers a much in-depth brief with alot of examples on how to write it all up correctly.
 To use this enhanced brief. Simple delete the origianl briefing file and rename the ehhanced brief to "briefing.sqf" then proceed to edit it.
