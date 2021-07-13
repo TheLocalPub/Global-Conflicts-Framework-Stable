@@ -1,15 +1,14 @@
-//Core modules - While you can edit these, it is not recommended to disable them
-#include "acre_setup\root.sqf"
-#include "ai_drivers\root.sqf"
-#include "anti_nd\root.sqf"
-#include "disconnect_control\root.sqf"
-#include "eg_spectator_mode\root.sqf"
-#include "jip\root.sqf"
-#include "self_actions\root.sqf"
-#include "shot_count\root.sqf"
-#include "start_on_safe\root.sqf"
+//Core modules - While you can edit these, it's best to leave them turned on.
+//#include "acre_setup\root.sqf"
+//#include "anti_nd\root.sqf"
+//#include "disconnect_control\root.sqf"
+//#include "eg_spectator_mode\root.sqf"
+//#include "jip\root.sqf"
+//#include "self_actions\root.sqf"
+//#include "shot_count\root.sqf"
 
-
+//#include "headless_ai\root.sqf"
+//#include "kobld_setFace\root.sqf"
 //#include "kobld_onload\root.sqf"
 //#include "kobld_kobld_ai_tasks\root.sqf"
 //#include "kobld_paraflare\root.sqf"
@@ -35,3 +34,15 @@
 //#include "auto_track_assets\root.sqf"
 //#include "BackpackOnChest\root.sqf"
 //#include "vehicle_boost\root.sqf"
+//#include "ai_drivers\root.sqf"
+//#include "a3_endscreen\root.sqf"
+//#include "ambient_animation\root.sqf"
+//#include "ambient_effects\root.sqf"
+//#include "cvc_check\root.sqf"
+//#include "gas_script\root.sqf"
+//#include "radio_messages\root.sqf"
+//#include "random_scenario\root.sqf"
+//#include "shot_count_classic\root.sqf"
+//#include "start_on_safe\root.sqf"
+
+
